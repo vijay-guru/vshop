@@ -1,0 +1,90 @@
+main{
+    min-height: 80vh !important;
+
+}
+.ml-auto{
+    margin-left: auto;
+}
+.footer{
+    background-color: #353839;
+    color: white;
+}
+strong{
+    font-weight: bold !important;
+}
+.decorate{
+    text-decoration: none !important;
+    color: black !important;
+}
+.decorat{
+    padding-right: 4px;
+    padding-left: 4px;
+    text-decoration: none !important;
+    color: white !important;
+    margin-bottom:  20px !important;
+}
+.proceed{
+    width:200px;
+    margin-left: 470px;
+    border-radius: 25px !important;
+    margin-bottom: 10px;
+}
+.price{
+    margin-left: 60px !important;
+}
+.container{
+    border-color: black !important;
+}
+.btn-sm{
+    border-radius:50px !important;
+    width: 90px !important;
+}
+.deleteButton{
+    border-radius:50px !important;
+    width: 40px !important;
+}
+.createProduct{
+    text-align: right !important;
+}
+.formik{
+    display: inline-flex !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+.navba{
+    margin-bottom: 17px !important;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 0 !important;
+}
+.carousel-caption h3{
+    color: white !important;
+    
+}
+.carousel img{
+    height: 240px;
+    padding: 30px;
+    border-radius: 100px !important;
+    
+}
+.carousel a{
+    margin: 0 auto;
+}
+.imgcarousel{
+     color: white ;
+     align-items:center ;
+     text-align: center !important;
+}
+.carousel{
+    margin-top: 7px !important;
+}
+.img-responsive {
+    margin: 0 auto !important;
+}
+h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
